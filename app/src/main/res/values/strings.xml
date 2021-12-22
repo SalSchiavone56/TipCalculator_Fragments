@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UserInterfaceLab</string>
+    <string name="app_name">TipCalculator_Fragments</string>
     <string-array name="num_of_guests">
         <item>1</item>
         <item>2</item>
@@ -22,4 +22,6 @@
         <item>19</item>
         <item>20</item>
     </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

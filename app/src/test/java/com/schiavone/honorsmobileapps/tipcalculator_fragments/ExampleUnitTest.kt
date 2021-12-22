@@ -1,4 +1,4 @@
-package com.schiavone.honorsmobileapps.userinterfacelab
+package com.schiavone.honorsmobileapps.tipcalculator_fragments
 
 import org.junit.Test
 
